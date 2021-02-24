@@ -4,4 +4,8 @@
 東久留米ガイド
 
 # URL
-https://nutritious-butter-1836.glideapp.io/
+https://higashikurume-map.glideapp.io/
+
+# action
+add button Add
+
